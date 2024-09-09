@@ -1,3 +1,5 @@
+/// <reference types="cypress" />
+
 describe("Consulta de produtos", () => {
   it("Validar consulta do produto HeadPhone H2310", () => {
     let name = "H2310"

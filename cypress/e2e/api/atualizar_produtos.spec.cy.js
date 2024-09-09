@@ -1,3 +1,5 @@
+/// <reference types="cypress" />
+
 describe("atualização de produtos", () => {
     let token = 0;
     let userId = 0;
